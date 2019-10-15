@@ -1,0 +1,15 @@
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojAssemblyReference.cache
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\MainWindow.g.cs
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\App.g.cs
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister_MarkupCompile.cache
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister_MarkupCompile.lref
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\MainWindow.baml
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.g.resources
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Properties.Resources.resources
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.GenerateResource.cache
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CoreCompileInputs.cache
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+C:\Users\creightong\Downloads\student-registry-creightonglasscock-master\student-registry-creightonglasscock-master\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
